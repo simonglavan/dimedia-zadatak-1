@@ -1,0 +1,48 @@
+{
+    "meetings": [
+        {
+            "type": "meeting",
+            "title": "Sastanak s klijentom",
+            "date": "2021-16-01",
+            "time": {
+                "start": "11:00",
+                "end": "12:00"
+            },
+            "client": "Dimedia",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vel rhoncus mauris. Sed auctor, elit eget euismod placerat, mauris nibh pretium urna, eu lobortis lorem lectus vitae lacus."
+        },
+        {
+            "type": "meeting",
+            "title": "Sastanak s klijentom 2",
+            "date": "2021-17-01",
+            "time": {
+                "start": "10:00",
+                "end": "12:00"
+            },
+            "client": "Dimedia",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vel rhoncus mauris. Sed auctor, elit eget euismod placerat."
+        },
+        {
+            "type": "meeting",
+            "title": "Sastanak s klijentom",
+            "date": "2021-18-01",
+            "time": {
+                "start": "08:00",
+                "end": "09:00"
+            },
+            "client": "Dimedia",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut vel rhoncus mauris. Sed auctor, elit eget euismod placerat, mauris nibh pretium urna, eu lobortis lorem lectus vitae lacus. Proin malesuada interdum ultricies."
+        },
+        {
+            "type": "meeting",
+            "title": "Sastanak s klijentom",
+            "date": "2021-19-01",
+            "time": {
+                "start": "15:00",
+                "end": "16:00"
+            },
+            "client": "Dimedia",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        }
+    ]
+}

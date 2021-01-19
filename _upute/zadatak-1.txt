@@ -1,0 +1,5 @@
+Zadatak 1.
+
+Datoteka "data.json" sadrži podatke o sastancima. Zadatak je napraviti HTML5 dokument koristeći Bootstrap i jQuery koji će prikazivati svaki sastanak iz te datoteke kao zasebnu karticu sa mogućnošću zatvaranja/gašenja iste. Podaci se moraju dinamički učitati iz te datoteke, a u screenshotu "zadatak-1.png" prikazano je kako kartice moraju izgledati.
+
+Stranica mora biti responzivna, a u mobilnom prikazu kartice sastanaka moraju biti u jednom stupcu (umjesto u dva).
